@@ -4,3 +4,4 @@
 已完成:  
 LeNet  
 ALexNet  
+VGG
