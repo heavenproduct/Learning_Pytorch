@@ -41,6 +41,7 @@ def main():
     with open(json_path, "r") as f:
         class_indict = json.load(f)
 
+    print(class_indict)
     # create model
     model = GoogLeNet(num_classes=5, aux_logits=False).to(device)
 
