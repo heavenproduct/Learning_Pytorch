@@ -6,5 +6,5 @@
 LeNet  
 ALexNet  
 VGG
-ResNet
+**ResNet**
 下一步开始目标检测:
